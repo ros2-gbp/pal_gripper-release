@@ -2,6 +2,9 @@
 Changelog for package pal_gripper_simulation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.6.6 (2026-04-13)
+------------------
+
 3.6.5 (2026-02-10)
 ------------------
 * formatting problem solved
